@@ -4,7 +4,7 @@
 <array>
 	<dict>
 		<key>filename</key>
-		<string>Icon.png</string>
+		<string>Icon-57.png</string>
 		<key>dimensions</key>
 		<dict>
 			<key>height</key>
@@ -15,7 +15,7 @@
 	</dict>
 	<dict>
 		<key>filename</key>
-		<string>Icon@2x.png</string>
+		<string>Icon-114.png</string>
 		<key>dimensions</key>
 		<dict>
 			<key>height</key>
@@ -37,7 +37,7 @@
 	</dict>
 	<dict>
 		<key>filename</key>
-		<string>Icon-72@2x.png</string>
+		<string>Icon-144.png</string>
 		<key>dimensions</key>
 		<dict>
 			<key>height</key>
@@ -48,7 +48,7 @@
 	</dict>
 	<dict>
 		<key>filename</key>
-		<string>Icon-Small.png</string>
+		<string>icon-29.png</string>
 		<key>dimensions</key>
 		<dict>
 			<key>height</key>
@@ -59,7 +59,7 @@
 	</dict>
 	<dict>
 		<key>filename</key>
-		<string>Icon-Small@2x.png</string>
+		<string>Icon-58.png</string>
 		<key>dimensions</key>
 		<dict>
 			<key>height</key>
@@ -70,7 +70,7 @@
 	</dict>
 	<dict>
 		<key>filename</key>
-		<string>Icon-Small-50.png</string>
+		<string>Icon-50.png</string>
 		<key>dimensions</key>
 		<dict>
 			<key>height</key>
@@ -81,7 +81,7 @@
 	</dict>
 	<dict>
 		<key>filename</key>
-		<string>Icon-Small-50@2x.png</string>
+		<string>Icon-100.png</string>
 		<key>dimensions</key>
 		<dict>
 			<key>height</key>
@@ -92,7 +92,7 @@
 	</dict>
 	<dict>
 		<key>filename</key>
-		<string>Icon-iOS7-iPhone.png</string>
+		<string>Icon-60.png</string>
 		<key>dimensions</key>
 		<dict>
 			<key>height</key>
@@ -103,7 +103,7 @@
 	</dict>
 	<dict>
 		<key>filename</key>
-		<string>Icon-iOS7-iPhone@2x.png</string>
+		<string>Icon-120.png</string>
 		<key>dimensions</key>
 		<dict>
 			<key>height</key>
@@ -114,7 +114,7 @@
 	</dict>
 	<dict>
 		<key>filename</key>
-		<string>Icon-iOS7-iPad.png</string>
+		<string>Icon-76.png</string>
 		<key>dimensions</key>
 		<dict>
 			<key>height</key>
@@ -125,7 +125,7 @@
 	</dict>
 	<dict>
 		<key>filename</key>
-		<string>Icon-iOS7-iPad@2x.png</string>
+		<string>Icon-152.png</string>
 		<key>dimensions</key>
 		<dict>
 			<key>height</key>
@@ -136,7 +136,7 @@
 	</dict>
 	<dict>
 		<key>filename</key>
-		<string>Icon-iOS7-Spotlight.png</string>
+		<string>Icon-40.png</string>
 		<key>dimensions</key>
 		<dict>
 			<key>height</key>
@@ -147,7 +147,7 @@
 	</dict>
 	<dict>
 		<key>filename</key>
-		<string>Icon-iOS7-Spotlight@2x.png</string>
+		<string>Icon-80.png</string>
 		<key>dimensions</key>
 		<dict>
 			<key>height</key>
@@ -176,6 +176,39 @@
 			<real>1024</real>
 			<key>width</key>
 			<integer>1024</integer>
+		</dict>
+	</dict>
+	<dict>
+		<key>filename</key>
+		<string>icon-180.png</string>
+		<key>dimensions</key>
+		<dict>
+			<key>height</key>
+			<integer>180</integer>
+			<key>width</key>
+			<integer>180</integer>
+		</dict>
+	</dict>
+	<dict>
+		<key>filename</key>
+		<string>icon-180.png</string>
+		<key>dimensions</key>
+		<dict>
+			<key>height</key>
+			<integer>180</integer>
+			<key>width</key>
+			<integer>180</integer>
+		</dict>
+	</dict>
+	<dict>
+		<key>filename</key>
+		<string>icon-180.png</string>
+		<key>dimensions</key>
+		<dict>
+			<key>height</key>
+			<integer>167</integer>
+			<key>width</key>
+			<integer>167</integer>
 		</dict>
 	</dict>
 </array>
