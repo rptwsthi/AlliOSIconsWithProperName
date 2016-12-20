@@ -158,6 +158,17 @@
 	</dict>
 	<dict>
 		<key>filename</key>
+		<string>Icon-20.png</string>
+		<key>dimensions</key>
+		<dict>
+			<key>height</key>
+			<integer>20</integer>
+			<key>width</key>
+			<integer>20</integer>
+		</dict>
+	</dict>
+	<dict>
+		<key>filename</key>
 		<string>Icon-80.png</string>
 		<key>dimensions</key>
 		<dict>
@@ -198,6 +209,17 @@
 			<integer>180</integer>
 			<key>width</key>
 			<integer>180</integer>
+		</dict>
+	</dict>
+	<dict>
+		<key>filename</key>
+		<string>icon-83.5.png</string>
+		<key>dimensions</key>
+		<dict>
+			<key>height</key>
+			<real>83.5</real>
+			<key>width</key>
+			<real>83.5</real>
 		</dict>
 	</dict>
 	<dict>
