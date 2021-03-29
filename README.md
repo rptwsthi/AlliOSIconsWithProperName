@@ -5,10 +5,10 @@ This application is designed to create all icons required for any iOS applicatio
 
 Steps:
 =
- - Download and unzip application
- - run applicain using xcode
- - find document directory of your application
- - Paste you highest resolution icon(1024x1024) file in "Document" folder of your document directory
+ - download and unzip application
+ - run application using xcode
+ - find document directory of your application, delete all the files in document directory (spetially if you are running it second time)
+ - paste you highest resolution icon(1024x1024) file in "Document" folder of your document directory
  - now re-run application using xcode or iOS simulator (in case of ios simulator you need to quit application and launch it again)
  - now see the folder you have all the icons ready to drag in your application (at XCODE) and use
 
