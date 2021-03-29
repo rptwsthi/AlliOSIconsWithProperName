@@ -56,6 +56,10 @@
         //write icon file to document directory
         [UIImagePNGRepresentation(resizedImage) writeToFile:[[self pathForDocumentDirectory] stringByAppendingPathComponent:[iconDedtailDict valueForKey:@"filename"]] atomically:YES];
     }
+    
+    //to addd ne appstore image
+    UIImage *resizedImage = [self imageWithImage:origionalImage convertToSize:CGSizeMake(1024, 1024)];
+    [UIImageJPEGRepresentation(resizedImage, 0.8) writeToFile:[[self pathForDocumentDirectory] stringByAppendingPathComponent:@"AppStore2x.jpeg"] atomically:YES];
 }
 
 - (UIImage *)imageWithImage:(UIImage *)image convertToSize:(CGSize)size {
